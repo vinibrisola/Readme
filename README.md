@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm O Vinicius Brisola Alves</h1>
+<h1 align="center">Hi 👋, I'm Vinicius Brisola Alves</h1>
 <h3 align="center">A FullStack developer passionate about technology</h3>
 
 - 🔭 I’m currently working on **at Oficina Mais sistemas**
