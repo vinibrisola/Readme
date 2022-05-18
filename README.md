@@ -5,12 +5,12 @@
 - 👯 I’m looking to collaborate on **FullStack**
 - 💬 Ask me about **Tecnologia,Agile Methodology,Software development and etc...**
 - 📫 How to reach me **vinibrisola2@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/vinicius-b-b61778118/](https://www.linkedin.com/in/vinicius-b-b61778118/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/viniciusbrisola/](https://www.linkedin.com/in/viniciusbrisola/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/uruvini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uruvini" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinicius-b-b61778118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-b-b61778118/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/viniciusbrisola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-b-b61778118/" height="30" width="40" /></a>
 <a href="https://instagram.com/@vinibrisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@vinibrisa" height="30" width="40" /></a>
 </p>
 
