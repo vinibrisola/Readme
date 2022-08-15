@@ -18,7 +18,7 @@
 
 <p align="left">
  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.youtube.com/watch?v=5V_FQa363Y0&list=RDMMDTXDxJVhunw&index=2&ab_channel=CapitalFM" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusbrisola/" /></a>
   
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=(https://api.whatsapp.com/send?phone=5551997905379&text=OLA%20VINI)"/></a>
